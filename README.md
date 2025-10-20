@@ -12,8 +12,8 @@ Dit portfolio is direct gehost via GitHub Pages op mijn gepersonaliseerde domein
 
 | Status | Link |
 | :--- | :--- |
-| **Live Portfolio** | **[https://MickaelD127.github.io](https://mickaeldl27.github.io/MickaelDL27/)** |
-| **Code Repo** | [https://github.com/MickaelDL27/MickaelD127.github.io](https://github.com/MickaelDL27/MickaelD127.github.io) |
+| **Live Portfolio** | **[MickaëlDL27Portfolio](https://mickaeldl27.github.io/MickaelDL27/)** |
+| **Code Repo** | [MickaëlDL27PortfolioRepo](https://github.com/MickaelDL27/MickaelDL27) |
 
 ---
 
