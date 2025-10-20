@@ -1,0 +1,174 @@
+/* Algemene Resets & Fonts */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f7f9;
+    color: #333;
+    line-height: 1.6;
+}
+
+/* DE CENTRERENDE CONTAINER */
+.container {
+    max-width: 1200px;
+    padding: 0 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* 1. HEADER (Intro Sectie) */
+.hero {
+    background-color: #2c3e50;
+    color: white;
+    padding: 80px 0;
+    text-align: center;
+}
+
+.hero h1 {
+    font-size: 3em;
+    margin-bottom: 10px;
+}
+
+.main-nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 1.4em;
+    font-weight: bold;
+    border-bottom: 2px solid transparent;
+    transition: border-bottom 0.3s;
+}
+
+.main-nav a:hover {
+    border-bottom: 2px solid #3498db; 
+}
+
+/* 2. PROJECTEN SECTIE */
+.projects-section {
+    padding: 60px 0;
+}
+
+.projects-section h2 {
+    text-align: center;
+    color: #2c3e50;
+    margin-bottom: 40px;
+}
+
+/* CSS GRID voor de projectkaarten */
+.projects-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); 
+    gap: 30px;
+}
+
+/* Projectkaart Styling */
+.project-card {
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    transition: transform 0.3s;
+    margin-bottom: 35px;
+}
+
+.project-card img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: auto;
+    height: auto; 
+    object-fit: cover; 
+}
+
+.project-card:hover {
+    transform: translateY(-5px);
+}
+
+.project-card-content {
+    padding: 20px;
+}
+
+.project-card h3 {
+    color: #3498db;
+    margin-top: 0;
+}
+
+.project-links a {
+    display: inline-block;
+    padding: 8px 15px;
+    margin-right: 10px;
+    border-radius: 4px;
+    text-decoration: none;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.project-links .live-demo {
+    background-color: #2ecc71; 
+    color: white;
+}
+
+.project-links .view-code {
+    background-color: #bdc3c7; 
+    color: #333;
+}
+
+
+/* 3. CONTACT & FOOTER */
+.contact-section {
+    padding: 40px 0;
+    background-color: #ecf0f1;
+}
+
+.contact-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 40px;
+}
+
+.skills-list ul {
+    list-style: none;
+    padding: 0;
+}
+
+.skills-list li {
+    background: #3498db;
+    color: white;
+    padding: 5px 10px;
+    margin-bottom: 8px;
+    border-radius: 4px;
+    display: inline-block;
+}
+
+.btn {
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: bold;
+    margin-right: 15px;
+    display: inline-block;
+    transition: background-color 0.3s;
+}
+
+.btn.primary {
+    background-color: #e74c3c; 
+    color: white;
+}
+
+.btn.secondary {
+    background-color: #95a5a6; 
+    color: white;
+}
+
+.btn.tertiary {
+    background-color: #2980b9; 
+    color: white;
+}
+
+footer {
+    background-color: #34495e;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+    font-size: 0.9em;
+}
