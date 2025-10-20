@@ -56,9 +56,9 @@ Neem gerust contact met me op via LinkedIn of stuur een e-mail via de onderstaan
 
 | Platform | Link |
 | :--- | :--- |
-| **LinkedIn** | [https://www.linkedin.com/in/micka%C3%ABl-de-lembre-b32a60191/](https://www.linkedin.com/in/micka%C3%ABl-de-lembre-b32a60191/) |
+| **LinkedIn** | [https://www.linkedin.com/in/mickaël-de-lembre/](https://www.linkedin.com/in/micka%C3%ABl-de-lembre-b32a60191/) |
 | **GitHub** | [https://github.com/MickaelDL27](https://github.com/MickaelDL27) |
-| **E-mail** | [mailto:mdelembre@gmail.com](mailto:mdelembre@gmail.com) |
+| **E-mail** | [mdelembre@gmail.com](mailto:mdelembre@gmail.com) |
 
 ---
 
